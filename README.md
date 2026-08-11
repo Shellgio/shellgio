@@ -24,12 +24,10 @@ I research, design and build practical Microsoft Security solutions.
 ⭐ MS-102-Study-Notes 
 
 #### 🤝 OPEN SOURCE CONTRIBUTIONS
-─────────────────────────────
 🧰 cmd.ms
    Contributions to the cmd.ms open-source ecosystem
 
 #### RESEARCH & WRITING
-──────────────────
 🌐 shellgio.net
 
 ## Socials
